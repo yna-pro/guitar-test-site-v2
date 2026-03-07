@@ -4211,6 +4211,11 @@ input, select, textarea {
 	width: 100%;
 }
 
+.contact-form-center .fields {
+	margin-left: 0;
+}
+
+
 
 
 
