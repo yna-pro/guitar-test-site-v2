@@ -4158,25 +4158,27 @@ input, select, textarea {
 /* Custom CSS (自分の追加部分)   */
 /* ============================= */
 
-.about-container {
+/* プロフィールレイアウト */
+
+#profile .about-container {
   text-align: center;
 }
 
-.about-text {
+#profile .about-text {
   max-width: 700px;
   margin: 0 auto 3rem auto;
   font-size: 1.1rem;
   line-height: 1.8;
 }
 
-.about-image img {
-  width: 160px;
-  height: 160px;
+/* 正円プロフィール画像 */
+
+#profile .about-image img {
+  width: 160px !important;
+  height: 160px !important;
   object-fit: cover;
   border-radius: 50%;
   display: block;
-  margin: 0 auto;
+  margin: 1rem auto;
   box-shadow: 0 10px 30px rgba(0,0,0,0.2);
 }
-
-
