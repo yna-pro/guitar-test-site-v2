@@ -4185,18 +4185,11 @@ input, select, textarea {
 
 /* コンタクトフォームを中央に */
 
-.contact-form-center {
-	max-width: 900px;
+#footer .inner form {
+	width: 100%;
 	margin: 0 auto;
 }
 
-.contact-form-center .fields {
-	margin-left: 0;
-}
-
-.contact-form-center .fields .field {
-	padding-left: 0;
-}
 
 
 
