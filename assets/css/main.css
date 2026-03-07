@@ -4170,10 +4170,12 @@ input, select, textarea {
 }
 
 .about-image img {
-  max-width: 160px;   /* 320px → 半分 */
-  width: 100%;
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
   border-radius: 50%;
   box-shadow: 0 10px 30px rgba(0,0,0,0.2);
 }
+
 
 
