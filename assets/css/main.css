@@ -253,8 +253,9 @@ input, select, textarea {
 	h1, h2, h3, h4, h5, h6 {
 		color: #ffffff;
 		font-family: Raleway, Helvetica, sans-serif;
+		font-size: 15em;
 		font-weight: 700;
-		letter-spacing: 0.1em;
+		letter-spacing: 0.5em;
 		margin: 0 0 1em 0;
 		text-transform: uppercase;
 	}
@@ -4201,6 +4202,7 @@ input, select, textarea {
 #three .image {
     width: 15em;
 }
+
 
 
 
