@@ -4187,7 +4187,12 @@ input, select, textarea {
 
 .contact-form-center {
 	max-width: 900px;
-	margin: 0 auto;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.contact-form-center form {
+	width: 100%;
 	text-align: center;
 }
 
@@ -4198,14 +4203,13 @@ input, select, textarea {
 }
 
 .contact-form-center .field {
-	width: 80%;
+	width: 70%;
 }
 
 .contact-form-center input,
 .contact-form-center textarea {
 	width: 100%;
 }
-
 
 
 
