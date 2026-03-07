@@ -4152,6 +4152,11 @@ input, select, textarea {
 		#footer .inner {
 			padding: 2em 1.5em 0.1em 1.5em ;
 		}
+	}
+
+/* ============================= */
+/* Custom CSS (自分の追加部分)   */
+/* ============================= */
 
 .about-container {
   text-align: center;
@@ -4170,6 +4175,7 @@ input, select, textarea {
   border-radius: 50%;
   box-shadow: 0 10px 30px rgba(0,0,0,0.2);
 }
+
 
 
 
