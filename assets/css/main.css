@@ -4183,4 +4183,12 @@ input, select, textarea {
   box-shadow: 0 10px 30px rgba(0,0,0,0.2);
 }
 
+/* コンタクトフォームを中央に */
+
+.contact-form-center {
+	max-width: 600px;
+	margin: 0 auto;
+}
+
+
 
