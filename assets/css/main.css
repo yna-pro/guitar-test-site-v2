@@ -4155,6 +4155,21 @@ input, select, textarea {
 
 	}
 
+#profile .profile-text {
+  margin-bottom: 2rem;
+}
+
+#profile .profile-image {
+  text-align: center;
+}
+
+#profile .profile-image img {
+  max-width: 400px;
+  width: 100%;
+  border-radius: 8px;
+}
+
+
 
 
 
