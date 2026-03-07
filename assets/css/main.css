@@ -4198,6 +4198,15 @@ input, select, textarea {
 	width: 100%;
 }
 
+#footer .inner {
+	max-width: 1200px;
+}
+
+#footer form {
+	width: 100%;
+}
+
+
 
 
 
