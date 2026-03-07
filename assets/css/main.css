@@ -100,7 +100,7 @@ input, select, textarea {
 
 	body {
 		background-color: #2e3141;
-		background-image: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../images/メインビジュアル6.jpg");
+		background-image: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../images/mainvisual.jpg");
 		background-size: auto,
  cover;
 		background-attachment: fixed,
@@ -3466,7 +3466,7 @@ input, select, textarea {
 			#banner {
 				padding: 7em 0 8.25em 0 ;
 				background-color: #2e3141;
-				background-image: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../images/メインビジュアル6.jpg");
+				background-image: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../images/mainvisual.jpg");
 				background-size: auto,
  cover;
 				background-position: center,
@@ -3578,7 +3578,7 @@ input, select, textarea {
 		#wrapper > header {
 			padding: 9em 0 6.25em 0 ;
 			background-color: #2e3141;
-			background-image: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../images/メインビジュアル6.jpg");
+			background-image: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../images/mainvisual.jpg");
 			background-size: auto,
  cover;
 			background-position: center,
@@ -4071,7 +4071,7 @@ input, select, textarea {
 
 		#footer {
 			background-color: #2e3141;
-			background-image: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../images/メインビジュアル6.jpg");
+			background-image: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../images/mainvisual.jpg");
 			background-size: auto,
  cover;
 			background-position: center,
@@ -4170,6 +4170,7 @@ input, select, textarea {
   border-radius: 50%;
   box-shadow: 0 10px 30px rgba(0,0,0,0.2);
 }
+
 
 
 
