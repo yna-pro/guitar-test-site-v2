@@ -4186,9 +4186,10 @@ input, select, textarea {
 /* コンタクトフォームを中央に */
 
 .contact-form-center {
-	max-width: 600px;
+	max-width: 1000px;
 	margin: 0 auto;
 }
+
 
 
 
