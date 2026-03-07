@@ -4191,6 +4191,11 @@ input, select, textarea {
 	margin: 0 auto;
 }
 
+#footer .actions {
+	text-align: center;
+}
+
+
 
 
 
