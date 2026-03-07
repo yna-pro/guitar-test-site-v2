@@ -4185,7 +4185,7 @@ input, select, textarea {
 
 /* コンタクトフォームを中央に */
 
-.contact-form-center {
+.contact-form-center  form {
 	max-width: 850px;
 	margin: 0 auto;
 	width: 100%;
@@ -4194,6 +4194,7 @@ input, select, textarea {
 .contact-form-center .fields {
 	display: block;
 }
+
 
 
 
