@@ -4188,23 +4188,23 @@ input, select, textarea {
 .contact-form-center {
 	max-width: 900px;
 	margin: 0 auto;
+	text-align: center;
 }
 
 .contact-form-center .fields {
 	display: flex;
 	flex-direction: column;
+	align-items: center;
+}
+
+.contact-form-center .field {
+	width: 80%;
 }
 
 .contact-form-center input,
 .contact-form-center textarea {
 	width: 100%;
 }
-
-.contact-form-center {
-	background: red;
-}
-
-
 
 
 
