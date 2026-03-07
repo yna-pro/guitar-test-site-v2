@@ -4196,6 +4196,11 @@ input, select, textarea {
 	justify-content: center;
 }
 
+#three .image {
+    width: 14em;
+}
+
+
 
 
 
