@@ -4191,24 +4191,19 @@ input, select, textarea {
 }
 
 .contact-form-center .fields {
-	display: block;
+	display: flex;
+	flex-direction: column;
 }
 
-.contact-form-center .field {
-	width: 100%;
-}
-
-#footer .inner {
-	max-width: 1200px;
-}
-
-#footer form {
+.contact-form-center input,
+.contact-form-center textarea {
 	width: 100%;
 }
 
 .contact-form-center {
 	background: red;
 }
+
 
 
 
