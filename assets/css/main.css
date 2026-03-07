@@ -4196,9 +4196,12 @@ input, select, textarea {
 	justify-content: center;
 }
 
+/* 教材販売画像サイズ調整 */
+
 #three .image {
-    width: 14em;
+    width: 15em;
 }
+
 
 
 
